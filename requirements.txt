@@ -7,4 +7,4 @@ pandas
 sklearn
 adabound
 opencv-python
-pillow==6.0.0
+pillow==8.3.2
